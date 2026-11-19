@@ -1,0 +1,4 @@
+venv/
+archive/
+db.sqlite3
+*.pyc
